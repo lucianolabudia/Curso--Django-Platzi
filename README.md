@@ -17,6 +17,9 @@
 * Ajustando el archivo settings.py
 
 ### Models
+* ¿Qué es ORM? ¿Qué es un modelo?
+* Creando un diagrama entidad-relación para nuestro proyecto
+* Creando los modelos Question y Choice
 
 ### Interactive Shell
 
