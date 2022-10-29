@@ -22,6 +22,11 @@
 * Creando los modelos Question y Choice
 
 ### Interactive Shell
+* La consola interactiva de Django
+* El método __str__
+* Filtrando los objetos creados desde la consola interactiva
+* El método filter
+* Accediendo al conjunto de respuestas
 
 ### Django Admin
 
