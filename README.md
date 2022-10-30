@@ -29,8 +29,11 @@
 * Accediendo al conjunto de respuestas
 
 ### Django Admin
+* El administrador de Django
 
 ### Views
+* ¿Qué son las views o vistas?
+* Creando vistas para la aplicación
 
 ### Forms
 
