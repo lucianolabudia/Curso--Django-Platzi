@@ -42,5 +42,6 @@
 ### Forms
 * Formularios: lo básico
 * Creando la vista vote
+* Creando la vista results
 
 ### Generic Views
