@@ -40,5 +40,7 @@
 * Utilizando la etiqueta url para evitar el hard coding
 
 ### Forms
+* Formularios: lo básico
+* Creando la vista vote
 
 ### Generic Views
