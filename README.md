@@ -45,3 +45,5 @@
 * Creando la vista results
 
 ### Generic Views
+* Generic Views
+* Implementando generic views en la aplicación
