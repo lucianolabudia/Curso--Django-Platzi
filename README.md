@@ -34,6 +34,10 @@
 ### Views
 * ¿Qué son las views o vistas?
 * Creando vistas para la aplicación
+* Templates de Django
+* Creando el template del home
+* Elevando el error 404
+* Utilizando la etiqueta url para evitar el hard coding
 
 ### Forms
 
