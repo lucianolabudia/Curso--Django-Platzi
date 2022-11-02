@@ -59,6 +59,7 @@
 * Escribiendo nuestro primer test
 * Solucionando el error encontrado
 * Testing de Views
+* Creando más tests para IndexView
 
 ### Static Files
 
