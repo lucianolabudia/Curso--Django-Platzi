@@ -60,6 +60,8 @@
 * Solucionando el error encontrado
 * Testing de Views
 * Creando más tests para IndexView
+* Ajustando detalles en los tests para IndexView
+* Creando tests para DetailView
 
 ### Static Files
 
