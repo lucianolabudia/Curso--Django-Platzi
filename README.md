@@ -64,7 +64,11 @@
 * Creando tests para DetailView
 
 ### Static Files
+* Agregando estilos a nuestro proyecto
+* Añadiendo una imagen de fondo
 
 ### Django Admin
+* Mejorando el Admin: Questions
+* Mejorando el Admin: Change List
 
 ### Bonus: ajustes finales
