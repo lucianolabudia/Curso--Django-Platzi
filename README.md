@@ -47,3 +47,21 @@
 ### Generic Views
 * Generic Views
 * Implementando generic views en la aplicación
+
+# Curso de Django Intermedio: Testing, Static Files, Django Admin
+
+[Link del curso Platzi](https://platzi.com/cursos/django-intermedio/)
+
+## Temario y recursos del Curso de Django Intermedio: Testing, Static Files, Django Admin
+
+### Testing
+* ¿Qué son los tests?
+* Escribiendo nuestro primer test
+* Solucionando el error encontrado
+* Testing de Views
+
+### Static Files
+
+### Django Admin
+
+### Bonus: ajustes finales
