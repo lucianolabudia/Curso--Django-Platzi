@@ -72,3 +72,7 @@
 * Mejorando el Admin: Change List
 
 ### Bonus: ajustes finales
+* Comenzando a crear un Frontend
+* Añadiendo estilos al home de nuestra aplicación
+* Creando la estructura de la vista de detalle
+* Finalizando los estilos de la vista de detalle
